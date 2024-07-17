@@ -1,4 +1,4 @@
-uthor- J. Manish                Python Development Internship at Octanet
+Author- J. Manish                Python Development Internship at Octanet
 
 T A S K - 1
 Create an ATM Machine Simulation:
